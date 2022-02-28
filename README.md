@@ -65,4 +65,4 @@ The purpose of this assignment is to start learning how to use D3.js to build cu
 ## Submission
 
 * Be sure to push all changes to your repo and follow all instructions above. 
-* For this portion of your assignment **submit a clickable URL to your GitHub repository** (not your GitHub Page).  
+* For this portion of your assignment **https://github.com/DS4200-S22/ic-07-sykang071** (not your GitHub Page).  
